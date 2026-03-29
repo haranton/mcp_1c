@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp_1c_local__list_metadata_objects"
+    ]
+  }
+}
